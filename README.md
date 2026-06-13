@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Islamabad, Pakistan &nbsp;|&nbsp; 💼 Open to Internships & Remote Roles
+  📍 Islamabad, Pakistan &nbsp;|&nbsp; 💼 Open to Remote Roles
 </p>
 
 ---
