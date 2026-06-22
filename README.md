@@ -25,7 +25,7 @@
 
 | Project | Tech | Link |
 |--------|------|------|
-| JoinGo — Carpooling App | React Native · Supabase · Zustand | 🔒 Private |
+| JoinGo — Carpooling App | React Native · Supabase · Zustand | [View](https://github.com/yousaf-wzr/JoinGo)|
 | Notes App | React.js · Tailwind CSS | [View](https://github.com/yousaf-wzr/notes-app) |
 | Nexus Platform | JavaScript · HTML · CSS | [View](https://github.com/yousaf-wzr/Nexus) |
 
